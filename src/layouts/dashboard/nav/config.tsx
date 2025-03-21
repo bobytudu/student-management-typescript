@@ -34,32 +34,32 @@ const navConfig: NavConfigProps[] = [
         path: "/auth/reset-password",
         icon: <CustomIcon icon="mdi:lock-reset" />,
       },
+    ],
+  },
+  {
+    title: "Dashboards",
+    path: "/dashboards",
+    icon: <CustomIcon icon="mdi:view-dashboard" />,
+    children: [
       {
-        title: "Dashboards",
-        path: "/auth/dashboards",
-        icon: <CustomIcon icon="mdi:view-dashboard" />,
-        children: [
-          {
-            title: "Admin Dashboard",
-            path: "/auth/dashboards/admin",
-            icon: <CustomIcon icon="mdi:shield-crown" />,
-          },
-          {
-            title: "Teacher Dashboard",
-            path: "/auth/dashboards/teacher",
-            icon: <CustomIcon icon="mdi:teach" />,
-          },
-          {
-            title: "Student Dashboard",
-            path: "/auth/dashboards/student",
-            icon: <CustomIcon icon="mdi:school" />,
-          },
-          {
-            title: "Staff Dashboard",
-            path: "/auth/dashboards/staff",
-            icon: <CustomIcon icon="mdi:account-group" />,
-          },
-        ],
+        title: "Admin Dashboard",
+        path: "/dashboards/admin",
+        icon: <CustomIcon icon="mdi:shield-crown" />,
+      },
+      {
+        title: "Teacher Dashboard",
+        path: "/dashboards/teacher",
+        icon: <CustomIcon icon="mdi:teach" />,
+      },
+      {
+        title: "Student Dashboard",
+        path: "/dashboards/student",
+        icon: <CustomIcon icon="mdi:school" />,
+      },
+      {
+        title: "Staff Dashboard",
+        path: "/dashboards/staff",
+        icon: <CustomIcon icon="mdi:account-group" />,
       },
     ],
   },
@@ -80,37 +80,37 @@ const navConfig: NavConfigProps[] = [
         children: [
           {
             title: "Personal Information",
-            path: "/students/profile/personal",
+            path: "/students/profile",
             icon: <CustomIcon icon="mdi:card-account-details" />,
           },
           {
             title: "Academic Records",
-            path: "/students/profile/academics",
+            path: "/students/academics",
             icon: <CustomIcon icon="mdi:school" />,
           },
           {
             title: "Attendance",
-            path: "/students/profile/attendance",
+            path: "/students/attendance",
             icon: <CustomIcon icon="mdi:calendar-check" />,
           },
           {
             title: "Discipline Records",
-            path: "/students/profile/discipline",
+            path: "/students/discipline",
             icon: <CustomIcon icon="mdi:gavel" />,
           },
           {
             title: "Parent Information",
-            path: "/students/profile/parents",
+            path: "/students/parents",
             icon: <CustomIcon icon="mdi:account-child" />,
           },
           {
             title: "Medical Records",
-            path: "/students/profile/medical",
+            path: "/students/medical",
             icon: <CustomIcon icon="mdi:medical-bag" />,
           },
           {
             title: "Documents",
-            path: "/students/profile/documents",
+            path: "/students/documents",
             icon: <CustomIcon icon="mdi:file-document" />,
           },
         ],
