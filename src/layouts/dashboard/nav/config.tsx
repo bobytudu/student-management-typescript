@@ -30,6 +30,11 @@ const navConfig: NavConfigProps[] = [
         icon: <CustomIcon icon="mdi:login" />,
       },
       {
+        title: "Signup",
+        path: "/auth/signup",
+        icon: <CustomIcon icon="fluent-emoji:sign-of-the-horns-light" />,
+      },
+      {
         title: "Password Reset",
         path: "/auth/reset-password",
         icon: <CustomIcon icon="mdi:lock-reset" />,

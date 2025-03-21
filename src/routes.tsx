@@ -18,6 +18,7 @@ import { Navigate, useRoutes } from "react-router-dom";
 // Auth pages
 import LoginPage from "pages/auth/LoginPage";
 import ResetPasswordPage from "pages/auth/ResetPasswordPage";
+import Signup from "pages/auth/Signup";
 import AdminDashboardPage from "pages/auth/dashboards/AdminDashboardPage";
 // import TeacherDashboardPage from "pages/auth/dashboards/TeacherDashboardPage";
 // import StudentDashboardPage from "pages/auth/dashboards/StudentDashboardPage";
@@ -36,7 +37,7 @@ import EditPersonalInfo from "pages/students/profile/EditPersonalInfo";
 // import DocumentsPage from "pages/students/profile/DocumentsPage";
 
 // Academics pages
-import SchedulePage from "pages/academics/SchedulePage";
+import SchedulePage from "pages/academics/Schedule";
 // import GradebookPage from "pages/academics/GradebookPage";
 // import ReportsPage from "pages/academics/ReportsPage";
 // import AssignmentsPage from "pages/academics/AssignmentsPage";
@@ -70,6 +71,7 @@ export default function Router() {
       children: [
         { path: "login", element: <LoginPage /> },
         { path: "reset-password", element: <ResetPasswordPage /> },
+        { path: "signup", element: <Signup /> },
         {
           path: "dashboards",
           children: [

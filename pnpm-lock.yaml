@@ -56,6 +56,9 @@ importers:
       date-fns:
         specifier: ^2.29.3
         version: 2.30.0
+      dayjs:
+        specifier: ^1.11.13
+        version: 1.11.13
       firebase:
         specifier: ^10.5.2
         version: 10.14.1
