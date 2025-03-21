@@ -1,0 +1,3752 @@
+[
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e10537c21f9d8090"
+      },
+      "first_name": "Cally",
+      "last_name": "Riggulsford",
+      "email": "criggulsford0@cpanel.net",
+      "gender": "Female",
+      "dob": "2008-01-18T01:59:55Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 33
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 76
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 98
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 24
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 34
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e10537897d6f4b95"
+      },
+      "first_name": "Vikky",
+      "last_name": "Moutray Read",
+      "email": "vmoutrayread1@domainmarket.com",
+      "gender": "Female",
+      "dob": "2006-10-01T02:13:26Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 14
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 16
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 43
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 41
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 62
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e1053788f692029b"
+      },
+      "first_name": "Moore",
+      "last_name": "Jepson",
+      "email": "mjepson2@psu.edu",
+      "gender": "Male",
+      "dob": "2001-11-25T19:52:03Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 49
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 61
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 88
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 64
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e105378a4b52ba72"
+      },
+      "first_name": "Duncan",
+      "last_name": "Harriday",
+      "email": "dharriday3@example.com",
+      "gender": "Male",
+      "dob": "2010-08-02T09:17:12Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 55
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 12
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 7
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 65
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 5
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e10537898af4d84c"
+      },
+      "first_name": "Nanni",
+      "last_name": "Caffrey",
+      "email": "ncaffrey4@comsenz.com",
+      "gender": "Female",
+      "dob": "2004-12-08T20:16:11Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 50
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 15
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 96
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 43
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 53
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e1053788a32ef815"
+      },
+      "first_name": "Ada",
+      "last_name": "Bozward",
+      "email": "abozward5@zdnet.com",
+      "gender": "Female",
+      "dob": "2007-04-04T23:08:17Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 40
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 62
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 69
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 16
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 61
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e10537893cb973e7"
+      },
+      "first_name": "Sebastian",
+      "last_name": "Eloy",
+      "email": "seloy6@epa.gov",
+      "gender": "Male",
+      "dob": "2005-12-07T04:22:22Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 34
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 15
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 87
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 47
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e10537893fa79744"
+      },
+      "first_name": "Georgy",
+      "last_name": "Tims",
+      "email": "gtims7@shareasale.com",
+      "gender": "Male",
+      "dob": "2008-07-06T08:00:18Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 47
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 86
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 19
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 68
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 42
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e1053789940cf219"
+      },
+      "first_name": "Clem",
+      "last_name": "Ekless",
+      "email": "cekless8@washingtonpost.com",
+      "gender": "Female",
+      "dob": "2007-10-05T01:29:58Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 13
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 32
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 64
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 31
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 77
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe3e1053788e428d9ac"
+      },
+      "first_name": "Kylie",
+      "last_name": "Pelham",
+      "email": "kpelham9@ox.ac.uk",
+      "gender": "Female",
+      "dob": "2009-02-27T02:21:40Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 89
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 26
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 28
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 96
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 12
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788f5e2906c"
+      },
+      "first_name": "Granny",
+      "last_name": "Milsap",
+      "email": "gmilsapa@bloglines.com",
+      "gender": "Male",
+      "dob": "2008-12-07T13:34:42Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 94
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 42
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 6
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 72
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 32
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537888fcf8297"
+      },
+      "first_name": "Brade",
+      "last_name": "Steedman",
+      "email": "bsteedmanb@qq.com",
+      "gender": "Male",
+      "dob": "2001-08-22T09:54:24Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 22
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 100
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 10
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 62
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 64
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788a01796b1"
+      },
+      "first_name": "Kally",
+      "last_name": "Cheine",
+      "email": "kcheinec@omniture.com",
+      "gender": "Female",
+      "dob": "2009-12-19T08:11:47Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 53
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 79
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 34
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 2
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 10
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378a81ea9b8c"
+      },
+      "first_name": "Vivien",
+      "last_name": "de Voiels",
+      "email": "vdevoielsd@themeforest.net",
+      "gender": "Female",
+      "dob": "2006-06-18T23:35:35Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 61
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 64
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 13
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 50
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 58
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537897e368b70"
+      },
+      "first_name": "Dianne",
+      "last_name": "Le Barre",
+      "email": "dlebarree@huffingtonpost.com",
+      "gender": "Female",
+      "dob": "2001-07-26T17:02:00Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 9
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 42
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 44
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 75
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 36
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789f493c8f6"
+      },
+      "first_name": "Bianka",
+      "last_name": "Pounder",
+      "email": "bpounderf@wunderground.com",
+      "gender": "Female",
+      "dob": "2005-07-12T09:31:35Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 60
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 34
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 11
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 51
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 66
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378a4a04470e"
+      },
+      "first_name": "Dana",
+      "last_name": "Brave",
+      "email": "dbraveg@redcross.org",
+      "gender": "Non-binary",
+      "dob": "2007-12-16T12:07:12Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 77
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 2
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 80
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 54
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 81
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789399ff5e5"
+      },
+      "first_name": "Matt",
+      "last_name": "Romanski",
+      "email": "mromanskih@princeton.edu",
+      "gender": "Male",
+      "dob": "2009-07-23T21:56:20Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 27
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 58
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 56
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 35
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 39
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789f5a5a0d4"
+      },
+      "first_name": "Vasilis",
+      "last_name": "Vooght",
+      "email": "vvooghti@walmart.com",
+      "gender": "Male",
+      "dob": "2004-05-08T21:57:45Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 48
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 46
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 77
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 80
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378980e57cf4"
+      },
+      "first_name": "Franklin",
+      "last_name": "MacGoun",
+      "email": "fmacgounj@shareasale.com",
+      "gender": "Male",
+      "dob": "2000-12-14T14:06:52Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 30
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 85
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 83
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 14
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 6
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378984a84f8d"
+      },
+      "first_name": "Clerkclaude",
+      "last_name": "Voyce",
+      "email": "cvoycek@cdc.gov",
+      "gender": "Male",
+      "dob": "2005-02-24T19:30:09Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 10
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 81
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 50
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 60
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 77
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788d3fa715c"
+      },
+      "first_name": "Julie",
+      "last_name": "Apfler",
+      "email": "japflerl@ed.gov",
+      "gender": "Male",
+      "dob": "2009-04-20T08:28:26Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 9
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 17
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 73
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 62
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 31
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537893a7f130c"
+      },
+      "first_name": "Cassius",
+      "last_name": "Persitt",
+      "email": "cpersittm@thetimes.co.uk",
+      "gender": "Polygender",
+      "dob": "2007-04-05T02:15:00Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 64
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 88
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 14
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 5
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 1
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789f7012779"
+      },
+      "first_name": "Niall",
+      "last_name": "Vango",
+      "email": "nvangon@amazon.com",
+      "gender": "Male",
+      "dob": "2004-09-24T21:58:52Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 33
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 99
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 79
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 61
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 25
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788f9d5a419"
+      },
+      "first_name": "Dalton",
+      "last_name": "McGookin",
+      "email": "dmcgookino@salon.com",
+      "gender": "Male",
+      "dob": "2005-05-09T16:13:30Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 78
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 25
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 67
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 82
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 19
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788a1f1d4b5"
+      },
+      "first_name": "Myra",
+      "last_name": "Hynard",
+      "email": "mhynardp@nasa.gov",
+      "gender": "Non-binary",
+      "dob": "2007-02-17T08:09:52Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 92
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 42
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 35
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 3
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 31
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053788fc7afaf5"
+      },
+      "first_name": "Gratia",
+      "last_name": "Cubley",
+      "email": "gcubleyq@china.com.cn",
+      "gender": "Polygender",
+      "dob": "2009-06-06T05:59:25Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 51
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 31
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 95
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 51
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 14
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378987cf3062"
+      },
+      "first_name": "Heall",
+      "last_name": "Nornable",
+      "email": "hnornabler@shareasale.com",
+      "gender": "Male",
+      "dob": "2009-11-01T06:03:26Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 70
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 68
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 56
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 73
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e105378a6fbe8ce6"
+      },
+      "first_name": "Radcliffe",
+      "last_name": "Lemmon",
+      "email": "rlemmons@chicagotribune.com",
+      "gender": "Male",
+      "dob": "2008-07-27T21:08:23Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 69
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 3
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 40
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 26
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 23
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789fa8b4e9a"
+      },
+      "first_name": "Lee",
+      "last_name": "Petrowsky",
+      "email": "lpetrowskyt@wsj.com",
+      "gender": "Male",
+      "dob": "2007-05-26T12:43:17Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 24
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 58
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 2
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e1053789fd657735"
+      },
+      "first_name": "Renard",
+      "last_name": "Burnhams",
+      "email": "rburnhamsu@vimeo.com",
+      "gender": "Male",
+      "dob": "2010-06-14T08:30:26Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 75
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 9
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 52
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 62
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 73
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a721"
+      },
+      "first_name": "Lisette",
+      "last_name": "Segrott",
+      "email": "lsegrottv@paginegialle.it",
+      "gender": "Female",
+      "dob": "2005-02-12T04:23:33Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 81
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 93
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 65
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 82
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 81
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a722"
+      },
+      "first_name": "Cherrita",
+      "last_name": "Gabites",
+      "email": "cgabitesw@go.com",
+      "gender": "Female",
+      "dob": "2003-09-26T16:52:51Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 14
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 84
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 82
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 79
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 26
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a723"
+      },
+      "first_name": "Barr",
+      "last_name": "Pretley",
+      "email": "bpretleyx@google.de",
+      "gender": "Male",
+      "dob": "2007-06-29T12:25:26Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 100
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 45
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 33
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 33
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a724"
+      },
+      "first_name": "Neddie",
+      "last_name": "Gabe",
+      "email": "ngabey@imgur.com",
+      "gender": "Male",
+      "dob": "2010-04-01T01:56:04Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 65
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 63
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 34
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 84
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a725"
+      },
+      "first_name": "Xymenes",
+      "last_name": "Jerrold",
+      "email": "xjerroldz@oakley.com",
+      "gender": "Male",
+      "dob": "2003-09-28T00:46:32Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 44
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 77
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 63
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 15
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 46
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a726"
+      },
+      "first_name": "Idell",
+      "last_name": "Manwaring",
+      "email": "imanwaring10@parallels.com",
+      "gender": "Female",
+      "dob": "2005-09-26T11:19:07Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 40
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 52
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 76
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 4
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 81
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a727"
+      },
+      "first_name": "Abbot",
+      "last_name": "Giacobini",
+      "email": "agiacobini11@sogou.com",
+      "gender": "Male",
+      "dob": "2005-02-15T00:31:14Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 55
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 50
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 17
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 18
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 45
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a728"
+      },
+      "first_name": "Twyla",
+      "last_name": "Skae",
+      "email": "tskae12@clickbank.net",
+      "gender": "Female",
+      "dob": "2006-03-18T10:33:43Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 93
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 72
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 17
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 20
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 56
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a729"
+      },
+      "first_name": "Debee",
+      "last_name": "Swadlen",
+      "email": "dswadlen13@shutterfly.com",
+      "gender": "Non-binary",
+      "dob": "2003-06-23T06:04:12Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 5
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 7
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 92
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 66
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 89
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72a"
+      },
+      "first_name": "Collette",
+      "last_name": "McCormick",
+      "email": "cmccormick14@forbes.com",
+      "gender": "Bigender",
+      "dob": "2008-03-27T15:33:13Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 19
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 16
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 84
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 99
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 27
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72b"
+      },
+      "first_name": "Dode",
+      "last_name": "Tuny",
+      "email": "dtuny15@cmu.edu",
+      "gender": "Agender",
+      "dob": "2003-12-04T14:08:06Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 69
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 17
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 87
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 78
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 36
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72c"
+      },
+      "first_name": "Gwendolen",
+      "last_name": "Celloni",
+      "email": "gcelloni16@quantcast.com",
+      "gender": "Female",
+      "dob": "2002-11-07T19:34:00Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 9
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 53
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 63
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 30
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 73
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72d"
+      },
+      "first_name": "Sarine",
+      "last_name": "Hastilow",
+      "email": "shastilow17@shop-pro.jp",
+      "gender": "Female",
+      "dob": "2006-12-11T14:06:50Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 52
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 43
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 48
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 57
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 90
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72e"
+      },
+      "first_name": "Joseito",
+      "last_name": "O'Kuddyhy",
+      "email": "jokuddyhy18@etsy.com",
+      "gender": "Male",
+      "dob": "2003-09-29T00:20:53Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 83
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 51
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 48
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 67
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 82
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a72f"
+      },
+      "first_name": "Mark",
+      "last_name": "Corsan",
+      "email": "mcorsan19@comcast.net",
+      "gender": "Male",
+      "dob": "2000-12-27T19:08:43Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 36
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 2
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 95
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 55
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 34
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a730"
+      },
+      "first_name": "Aharon",
+      "last_name": "Wolfer",
+      "email": "awolfer1a@pen.io",
+      "gender": "Male",
+      "dob": "2008-02-08T19:28:33Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 16
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 58
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 40
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 55
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 9
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a731"
+      },
+      "first_name": "Cristal",
+      "last_name": "Spohr",
+      "email": "cspohr1b@ucoz.com",
+      "gender": "Female",
+      "dob": "2000-10-30T18:30:52Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 67
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 40
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537897d6f4bbc"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 89
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 10
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 65
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a732"
+      },
+      "first_name": "Gerard",
+      "last_name": "O'Farris",
+      "email": "gofarris1c@technorati.com",
+      "gender": "Male",
+      "dob": "2004-01-20T00:32:15Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788a32ef83c"
+          },
+          "title": "Chemistry",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 85
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 95
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893cb9740e"
+          },
+          "title": "Biology",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788e428d9cd"
+          }
+        },
+        "mark": 96
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e105378a4b52ba99"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788a32ef839"
+          }
+        },
+        "mark": 79
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537c21f9d80b7"
+          },
+          "title": "Economics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053788f69202bf"
+          }
+        },
+        "mark": 92
+      }
+    ]
+  },
+  {
+    "exam_id": "JANUARY",
+    "student": {
+      "id": {
+        "$oid": "64f42fe8e10537d08686a733"
+      },
+      "first_name": "Augustin",
+      "last_name": "Yorston",
+      "email": "ayorston1d@pen.io",
+      "gender": "Bigender",
+      "dob": "2006-06-10T09:25:51Z"
+    },
+    "subject": [
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537898af4d873"
+          },
+          "title": "Geography",
+          "assigned_teacher": {
+            "$oid": "64f433b9e105378a4b52ba96"
+          }
+        },
+        "mark": 3
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788e428d9d0"
+          },
+          "title": "Physics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 100
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053788f69202c2"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e1053789940cf23d"
+          }
+        },
+        "mark": 85
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e10537893fa7976b"
+          },
+          "title": "Civics",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537897d6f4bb9"
+          }
+        },
+        "mark": 22
+      },
+      {
+        "subject": {
+          "id": {
+            "$oid": "64f434f6e1053789940cf240"
+          },
+          "title": "Math",
+          "assigned_teacher": {
+            "$oid": "64f433b9e10537893cb9740b"
+          }
+        },
+        "mark": 69
+      }
+    ]
+  }
+]

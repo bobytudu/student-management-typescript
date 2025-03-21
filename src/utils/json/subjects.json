@@ -1,0 +1,52 @@
+[
+  {
+    "id": { "$oid": "64f434f6e10537c21f9d80b7" },
+    "title": "Economics",
+    "assigned_teacher": { "$oid": "64f433b9e1053788f69202bf" }
+  },
+  {
+    "id": { "$oid": "64f434f6e10537897d6f4bbc" },
+    "title": "Civics",
+    "assigned_teacher": { "$oid": "64f433b9e1053788e428d9cd" }
+  },
+  {
+    "id": { "$oid": "64f434f6e1053788f69202c2" },
+    "title": "Civics",
+    "assigned_teacher": { "$oid": "64f433b9e1053789940cf23d" }
+  },
+  {
+    "id": { "$oid": "64f434f6e105378a4b52ba99" },
+    "title": "Geography",
+    "assigned_teacher": { "$oid": "64f433b9e1053788a32ef839" }
+  },
+  {
+    "id": { "$oid": "64f434f6e10537898af4d873" },
+    "title": "Geography",
+    "assigned_teacher": { "$oid": "64f433b9e105378a4b52ba96" }
+  },
+  {
+    "id": { "$oid": "64f434f6e1053788a32ef83c" },
+    "title": "Chemistry",
+    "assigned_teacher": { "$oid": "64f433b9e10537893cb9740b" }
+  },
+  {
+    "id": { "$oid": "64f434f6e10537893cb9740e" },
+    "title": "Biology",
+    "assigned_teacher": { "$oid": "64f433b9e1053788e428d9cd" }
+  },
+  {
+    "id": { "$oid": "64f434f6e10537893fa7976b" },
+    "title": "Civics",
+    "assigned_teacher": { "$oid": "64f433b9e10537897d6f4bb9" }
+  },
+  {
+    "id": { "$oid": "64f434f6e1053789940cf240" },
+    "title": "Math",
+    "assigned_teacher": { "$oid": "64f433b9e10537893cb9740b" }
+  },
+  {
+    "id": { "$oid": "64f434f6e1053788e428d9d0" },
+    "title": "Physics",
+    "assigned_teacher": { "$oid": "64f433b9e10537893cb9740b" }
+  }
+]

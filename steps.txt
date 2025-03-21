@@ -1,0 +1,6 @@
+teacher
+subjects
+class
+students
+exam
+exam_score

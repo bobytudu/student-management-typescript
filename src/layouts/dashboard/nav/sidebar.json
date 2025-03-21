@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Authentication",
+    "path": "/auth",
+    "children": [
+      {
+        "name": "Login",
+        "path": "/login"
+      },
+      {
+        "name": "Password Reset",
+        "path": "/reset-password"
+      },
+      {
+        "name": "Dashboards",
+        "path": "/dashboards",
+        "children": [
+          {
+            "name": "Admin Dashboard",
+            "path": "/admin"
+          },
+          {
+            "name": "Teacher Dashboard",
+            "path": "/teacher"
+          },
+          {
+            "name": "Student Dashboard",
+            "path": "/student"
+          },
+          {
+            "name": "Staff Dashboard",
+            "path": "/staff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Students",
+    "path": "/students",
+    "children": [
+      {
+        "name": "Student Directory",
+        "path": "/directory"
+      },
+      {
+        "name": "Student Profile",
+        "path": "/profile",
+        "children": [
+          {
+            "name": "Personal Information",
+            "path": "/personal"
+          },
+          {
+            "name": "Academic Records",
+            "path": "/academics"
+          },
+          {
+            "name": "Attendance",
+            "path": "/attendance"
+          },
+          {
+            "name": "Discipline Records",
+            "path": "/discipline"
+          },
+          {
+            "name": "Parent Information",
+            "path": "/parents"
+          },
+          {
+            "name": "Medical Records",
+            "path": "/medical"
+          },
+          {
+            "name": "Documents",
+            "path": "/documents"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Academics",
+    "path": "/academics",
+    "children": [
+      {
+        "name": "Class Schedule",
+        "path": "/schedule"
+      },
+      {
+        "name": "Gradebook",
+        "path": "/gradebook"
+      },
+      {
+        "name": "Report Cards",
+        "path": "/reports"
+      },
+      {
+        "name": "Assignments",
+        "path": "/assignments"
+      },
+      {
+        "name": "Exams",
+        "path": "/exams",
+        "children": [
+          {
+            "name": "Schedule",
+            "path": "/schedule"
+          },
+          {
+            "name": "Results",
+            "path": "/results"
+          }
+        ]
+      },
+      {
+        "name": "Course Registration",
+        "path": "/registration"
+      }
+    ]
+  },
+  {
+    "name": "Teachers",
+    "path": "/teachers",
+    "children": [
+      {
+        "name": "Teacher Directory",
+        "path": "/directory"
+      },
+      {
+        "name": "Profile Management",
+        "path": "/profile"
+      },
+      {
+        "name": "Class Assignment",
+        "path": "/classes"
+      },
+      {
+        "name": "Attendance Management",
+        "path": "/attendance"
+      },
+      {
+        "name": "Grade Entry",
+        "path": "/grades"
+      },
+      {
+        "name": "Leave Management",
+        "path": "/leave"
+      },
+      {
+        "name": "Teaching Schedule",
+        "path": "/schedule"
+      }
+    ]
+  },
+  {
+    "name": "Staff",
+    "path": "/staff",
+    "children": [
+      {
+        "name": "Staff Directory",
+        "path": "/directory"
+      },
+      {
+        "name": "Role Management",
+        "path": "/roles"
+      },
+      {
+        "name": "Attendance",
+        "path": "/attendance"
+      },
+      {
+        "name": "Leave Management",
+        "path": "/leave"
+      },
+      {
+        "name": "Performance Records",
+        "path": "/performance"
+      }
+    ]
+  },
+  {
+    "name": "Administration",
+    "path": "/admin",
+    "children": [
+      {
+        "name": "School Calendar",
+        "path": "/calendar"
+      },
+      {
+        "name": "Announcements",
+        "path": "/announcements"
+      },
+      {
+        "name": "Document Management",
+        "path": "/documents"
+      },
+      {
+        "name": "Fee Management",
+        "path": "/fees"
+      },
+      {
+        "name": "Admissions",
+        "path": "/admissions"
+      },
+      {
+        "name": "Resource Management",
+        "path": "/resources"
+      },
+      {
+        "name": "Reports",
+        "path": "/reports"
+      }
+    ]
+  },
+  {
+    "name": "Communication",
+    "path": "/communication",
+    "children": [
+      {
+        "name": "Messages",
+        "path": "/messages"
+      },
+      {
+        "name": "Notice Board",
+        "path": "/notices"
+      },
+      {
+        "name": "Parent Portal",
+        "path": "/parent-portal"
+      },
+      {
+        "name": "Events",
+        "path": "/events"
+      },
+      {
+        "name": "Newsletter",
+        "path": "/newsletter"
+      }
+    ]
+  },
+  {
+    "name": "Settings",
+    "path": "/settings",
+    "children": [
+      {
+        "name": "Academic Year",
+        "path": "/academic-year"
+      },
+      {
+        "name": "Class Management",
+        "path": "/classes"
+      },
+      {
+        "name": "Subject Management",
+        "path": "/subjects"
+      },
+      {
+        "name": "User Roles",
+        "path": "/roles"
+      },
+      {
+        "name": "System Settings",
+        "path": "/system"
+      }
+    ]
+  }
+]

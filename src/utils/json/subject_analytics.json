@@ -1,0 +1,284 @@
+[
+  {
+    "Civics": 33,
+    "Geography": 24,
+    "Chemistry": 98,
+    "Math": 34
+  },
+  {
+    "Chemistry": 14,
+    "Civics": 62,
+    "Biology": 43,
+    "Geography": 41
+  },
+  {
+    "Chemistry": 49,
+    "Civics": 64,
+    "Math": 88
+  },
+  {
+    "Geography": 5,
+    "Biology": 65,
+    "Civics": 7
+  },
+  {
+    "Geography": 15,
+    "Math": 96,
+    "Civics": 53
+  },
+  {
+    "Civics": 62,
+    "Chemistry": 69,
+    "Economics": 16,
+    "Biology": 61
+  },
+  {
+    "Geography": 3,
+    "Economics": 15,
+    "Civics": 87,
+    "Physics": 47
+  },
+  {
+    "Civics": 42,
+    "Math": 19
+  },
+  {
+    "Civics": 31,
+    "Biology": 32,
+    "Geography": 77
+  },
+  {
+    "Math": 26,
+    "Chemistry": 28,
+    "Civics": 12
+  },
+  {
+    "Math": 94,
+    "Civics": 42,
+    "Biology": 6,
+    "Physics": 72,
+    "Chemistry": 32
+  },
+  {
+    "Geography": 22,
+    "Physics": 100,
+    "Biology": 64,
+    "Civics": 62
+  },
+  {
+    "Biology": 10,
+    "Economics": 79,
+    "Civics": 34,
+    "Chemistry": 2
+  },
+  {
+    "Chemistry": 61,
+    "Civics": 13,
+    "Geography": 50,
+    "Biology": 58
+  },
+  {
+    "Geography": 9,
+    "Civics": 75,
+    "Math": 36
+  },
+  {
+    "Geography": 60,
+    "Math": 34,
+    "Chemistry": 11,
+    "Civics": 66
+  },
+  {
+    "Geography": 77,
+    "Physics": 54,
+    "Civics": 81
+  },
+  {
+    "Biology": 27,
+    "Math": 58,
+    "Physics": 56,
+    "Geography": 35,
+    "Economics": 39
+  },
+  {
+    "Economics": 48,
+    "Civics": 77,
+    "Geography": 80
+  },
+  {
+    "Geography": 30,
+    "Economics": 6,
+    "Civics": 14
+  },
+  {
+    "Civics": 77,
+    "Chemistry": 81,
+    "Economics": 50,
+    "Physics": 60
+  },
+  {
+    "Economics": 9,
+    "Civics": 62,
+    "Chemistry": 73,
+    "Biology": 31
+  },
+  {
+    "Physics": 64,
+    "Biology": 88,
+    "Economics": 1,
+    "Geography": 5
+  },
+  {
+    "Economics": 33,
+    "Geography": 99,
+    "Civics": 79,
+    "Math": 61,
+    "Biology": 25
+  },
+  {
+    "Civics": 78,
+    "Math": 82,
+    "Physics": 67,
+    "Economics": 19
+  },
+  {
+    "Geography": 92,
+    "Chemistry": 42,
+    "Civics": 31
+  },
+  {
+    "Civics": 14,
+    "Chemistry": 31,
+    "Economics": 95,
+    "Geography": 51
+  },
+  {
+    "Physics": 68,
+    "Chemistry": 57,
+    "Economics": 56,
+    "Civics": 73
+  },
+  {
+    "Civics": 3,
+    "Geography": 40,
+    "Math": 26,
+    "Physics": 23
+  },
+  {
+    "Geography": 24,
+    "Biology": 58,
+    "Civics": 2
+  },
+  {
+    "Chemistry": 75,
+    "Geography": 9,
+    "Civics": 62,
+    "Economics": 73
+  },
+  {
+    "Chemistry": 65,
+    "Economics": 93,
+    "Physics": 82,
+    "Geography": 81
+  },
+  {
+    "Geography": 14,
+    "Physics": 84,
+    "Biology": 82,
+    "Chemistry": 79,
+    "Civics": 26
+  },
+  {
+    "Civics": 33,
+    "Geography": 33,
+    "Physics": 3
+  },
+  {
+    "Civics": 34,
+    "Geography": 65,
+    "Math": 84
+  },
+  {
+    "Physics": 44,
+    "Biology": 77,
+    "Math": 63,
+    "Civics": 46
+  },
+  {
+    "Geography": 76,
+    "Chemistry": 52,
+    "Civics": 4,
+    "Biology": 81
+  },
+  {
+    "Economics": 18,
+    "Geography": 45
+  },
+  {
+    "Civics": 17,
+    "Math": 20,
+    "Chemistry": 56
+  },
+  {
+    "Biology": 5,
+    "Math": 7,
+    "Geography": 66,
+    "Economics": 89
+  },
+  {
+    "Math": 19,
+    "Civics": 27,
+    "Physics": 84,
+    "Biology": 99
+  },
+  {
+    "Geography": 69,
+    "Biology": 17,
+    "Civics": 36,
+    "Physics": 78
+  },
+  {
+    "Economics": 30,
+    "Chemistry": 53,
+    "Civics": 73
+  },
+  {
+    "Physics": 52,
+    "Civics": 90,
+    "Math": 57
+  },
+  {
+    "Math": 83,
+    "Geography": 51,
+    "Physics": 48,
+    "Civics": 67,
+    "Biology": 82
+  },
+  {
+    "Biology": 55,
+    "Geography": 34
+  },
+  {
+    "Civics": 58,
+    "Geography": 9,
+    "Chemistry": 55
+  },
+  {
+    "Civics": 10,
+    "Economics": 40,
+    "Chemistry": 65
+  },
+  {
+    "Chemistry": 85,
+    "Civics": 95,
+    "Biology": 96,
+    "Geography": 79,
+    "Economics": 92
+  },
+  {
+    "Geography": 3,
+    "Physics": 100,
+    "Civics": 22,
+    "Math": 69
+  }
+]
